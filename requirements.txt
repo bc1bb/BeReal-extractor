@@ -1,0 +1,9 @@
+# Required for analyze.py (dark-image filter + Haar face detection)
+opencv-python-headless>=4.8
+numpy>=1.24
+
+# Required for cluster_faces.py (face recognition + identity clustering).
+# Downloads the ~280 MB buffalo_l model on first run.
+insightface>=0.7.3
+onnxruntime>=1.16
+scikit-learn>=1.3
