@@ -1,3 +1,5 @@
+# See updates at https://git.bc1bb.foo/bc1bb/BeReal-extractor
+
 # bereal-archive
 
 A local, private web viewer for your BeReal data export. Drop it next to the
